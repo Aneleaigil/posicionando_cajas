@@ -1,0 +1,52 @@
+.caja-primera-red{
+     width: 500px;
+     height:500px;
+     background:#DF0101;
+    position: absolute;
+
+ }
+ .caja-yellow{
+     width: 150px;
+     height: 150px;
+     background: #FFFF00;
+     position: absolute;
+     bottom: 200px;
+     left: 170px;
+     z-index:3;
+
+ }
+ .caja-purple{
+     width: 300px;
+     height: 300px;
+     background: #a7135f;
+     position: absolute;
+     left: 100px;
+     top:80px;
+
+ }
+  .caja-black{
+    width: 140px;
+     height: 140px;
+     background:#0a0101;
+     position: absolute;
+     top:590px;
+     z-index: 3
+
+  }
+   .caja-blue{
+    width: 500px;
+     height: 500px;
+     background: #2b0ccc ;
+     position: absolute;
+     top: 590px;
+     z-index: 1;
+  }
+  .caja-green{
+    width: 230px;
+    height: 230px;
+    background: #30b536;
+    position: absolute;
+    top: 730px;
+    z-index: 2;
+    left: 140px
+  }
